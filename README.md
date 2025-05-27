@@ -9,8 +9,8 @@
 <div>
   <a href="https://beacons.ai/victorralves">
   <div align="center">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=victorralves&show_icons=true&theme=blue-navy" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorralves&layout=compact&theme=blue-navy" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=victorralves&show_icons=true&theme=blue_navy" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorralves&layout=compact&theme=blue_navy" />
 </div><br>
 
 ### 🚀 Tecnologias que eu conheço:
