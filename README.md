@@ -1,16 +1,23 @@
-## Hi there 👋
+## Olá, bem vindos ao meu GitHub!!
 
-<!--
-**victorralves/victorralves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center"> Me chamo Victor Rocha Alves👨‍💻</h1> <br>
 
-Here are some ideas to get you started:
+- 🌱 Cursando ADS...
+- 💬 Me pergunte sobre: Web development, automações com Arduino, lógica de programação, Python, etc.
+- 📫 Como me encontrar?: Minhas redes estão aqui no lado 👈🙂 <br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://beacons.ai/victorralves">
+  <div align="center">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=victorralves&show_icons=true&theme=blue-navy" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorralves&layout=compact&theme=blue-navy" />
+</div><br>
+
+### 🚀 Tecnologias que eu conheço:
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="60" height="60"/>
+</div>
