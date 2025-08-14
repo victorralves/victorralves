@@ -3,7 +3,7 @@
 <h1 align="center"> Me chamo Victor Rocha Alves👨‍💻</h1> <br>
 
 - 🌱 Cursando ADS...
-- 💬 Me pergunte sobre: Web development, automações com Arduino, lógica de programação, Python, etc.
+- 💬 Me pergunte sobre: Web development, automações, banco de dados, etc...
 - 📫 Como me encontrar?: Minhas redes estão aqui no lado 👈🙂 <br><br>
 
 <div>
