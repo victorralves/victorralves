@@ -1,8 +1,8 @@
 ## Olá, bem vindos ao meu GitHub!!
 
-<h1 align="center"> Me chamo Victor Rocha Alves👨‍💻</h1> <br>
+<h1 align="center"> Meu nome é Victor Rocha Alves👨‍💻</h1> <br>
 
-- 🌱 Cursando ADS...
+- 🌱 Estou Cursando ADS...
 - 💬 Me pergunte sobre: Web development, automações, banco de dados, etc...
 - 📫 Como me encontrar?: Minhas redes estão aqui no lado 👈🙂 <br><br>
 
